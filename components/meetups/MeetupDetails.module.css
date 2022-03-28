@@ -1,0 +1,10 @@
+.details {
+  display: grid;
+  place-items: center;
+  margin-top: 5rem;
+}
+
+.details img {
+  width: 100%;
+  border-radius: 6px;
+}
